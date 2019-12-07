@@ -53,7 +53,7 @@ function initialize_population(total)
 end
 
 
-function cuckoo_search(f;total_cuckoos=25,pa = 0.25,α=0.01, λ=0.5, MaxGenerations = 10)
+function cuckoo_search(f;total_cuckoos=25,pa = 0.25,α=0.01, λ=0.5, MaxGenerations = 15)
     cuckoos = initialize_population(total_cuckoos)
     println("Initial population of Cuckoos: ", length(cuckoos))
     L = Levy(λ)
