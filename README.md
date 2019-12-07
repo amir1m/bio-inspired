@@ -1,5 +1,6 @@
-# bio-inspired
-Bio-inspired optimization algorithms
+# Bio-inspired
+Implementation of Bio-inspired optimization algorithms
+
 
 ## Flower Pollination Optimization Algorithm Implementation
 src/FPA.jl
