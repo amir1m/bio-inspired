@@ -2,7 +2,7 @@
 Implementation of Bio-inspired optimization algorithms
 
 
-## Flower Pollination Optimization Algorithm Implementation
+## Flower Pollination Optimization Algorithm Implementation in Julia
 src/FPA.jl
 Currently supports only single variable functions.
 
