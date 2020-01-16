@@ -8,3 +8,6 @@ Currently supports only single variable functions.
 
 Paper ref: 
 Flower Pollination Algorithm for Global Optimization Xin-She Yang https://arxiv.org/abs/1312.5673
+
+## Cuckoo Search Algorithm Implementation in Julia
+src/CuckooSearch.jl
